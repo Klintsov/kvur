@@ -1,4 +1,4 @@
-#!c:\python310
+#python3.10.10
 # -*- coding: utf-8 -*-
 """Решение квадратного уравнения """
 from tkinter import Tk, Label, Button, Entry, StringVar, Menu, LabelFrame
